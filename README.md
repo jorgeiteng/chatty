@@ -1,5 +1,5 @@
 > 🎓 **Course work — DevMountain, Full-Stack Web Development**
-> **Term:** January – February 2014 · **Assignment:** `chatty`
+> **Term:** January – May 2014 · **Assignment:** `chatty`
 >
 > **Stack:** Node.js · Express 3.x · AngularJS · Yeoman · Grunt · Bower · Karma/Jasmine
 >
