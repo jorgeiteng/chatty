@@ -1,3 +1,18 @@
+> 🎓 **Course work — DevMountain, Full-Stack Web Development**
+> **Term:** January – February 2014 · **Assignment:** `chatty`
+>
+> **Stack:** Node.js · Express 3.x · AngularJS · Yeoman · Grunt · Bower · Karma/Jasmine
+>
+> **Demonstrates:** a first full-stack application — a Node/Express chat server
+> exposing REST endpoints, an AngularJS front end built around an injectable
+> `MessageService`, and Karma/Jasmine unit tests covering the service and
+> controllers. Several server implementations (`server.js`, `server_express.js`,
+> `serverJ.js`) document the progression from raw `http` to Express.
+>
+> The original course assignment brief is preserved below.
+
+---
+
 chatty
 ======
 
